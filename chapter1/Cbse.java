@@ -30,5 +30,7 @@ public class Cbse {
         System.out.println("Marks in english = "+eng);
 
         System.out.println("Your percentage is "+percentage+"%");
+          sc.close();
     }
+  
 }
